@@ -1,0 +1,18 @@
+body
+{
+    font-family:"Jersey 10", sans-serif;
+}
+.header_div{
+    color:red
+}
+.rodape
+{
+    position:fixed;
+    color: aqua;
+    bottom:0;
+    width: 100%;
+    background-color: blue;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0,0,0);
+}
